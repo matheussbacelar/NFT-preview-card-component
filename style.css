@@ -16,7 +16,7 @@ body
 }
 main
 {
-	max-width: 375px;
+	max-width: 340px;
 	margin: 2rem;
 	padding: 20px;
 	background-color: hsl(216, 50%, 16%);
@@ -105,7 +105,8 @@ hr
 {
 	display: flex;
 	align-items: center;
-	padding-top: 14px;
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 .autor img
 {
