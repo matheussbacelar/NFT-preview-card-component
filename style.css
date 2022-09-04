@@ -14,13 +14,9 @@ body
 	align-items: center;
 	min-height: 100vh;
 }
-.container
+main
 {
 	max-width: 375px;
-	margin: 0 auto;
-}
-.wrapper
-{
 	margin: 2rem;
 	padding: 20px;
 	background-color: hsl(216, 50%, 16%);
